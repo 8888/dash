@@ -1,0 +1,8 @@
+# virtualenv
+/env
+
+# other dependencies
+/scapy
+
+# python
+.pyc
